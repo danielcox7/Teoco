@@ -15,7 +15,7 @@ const friendOptions = [
 ];
 
 const DropdownSelection = () => (
-	<Dropdown placeholder="Select Friend" fluid selection options={friendOptions} />
+	<Dropdown placeholder="Select..." fluid selection options={friendOptions} />
 );
 
 export default DropdownSelection;
