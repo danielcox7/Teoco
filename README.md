@@ -1,4 +1,4 @@
 # Teoco
 
-__ npm install
-__ npm start
+npm install<br>
+npm start<br>
